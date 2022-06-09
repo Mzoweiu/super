@@ -1,0 +1,18 @@
+h1 {
+	text-align:center;
+}
+p{
+	
+	color:blue;
+}
+a{
+	
+	text-decoration:none;
+}
+
+#BUN{
+	
+	color:white;
+	background:gray;
+	border-radius:25%;
+	width:100px;
